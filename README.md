@@ -1,3 +1,3 @@
 ## Constructor3D
 
-![Alt text](C:\msys64\home\pante\pp20u1515\Constructor3D\Screenshot 2023-11-27 120735.png"a title")
+<img src="C:\msys64\home\pante\pp20u1515\Constructor3D\interface.png" style="zoom:40%;" />
