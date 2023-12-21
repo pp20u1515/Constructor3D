@@ -1,0 +1,13 @@
+C:\Users\pante\OneDrive\Desktop\New folder\Constructor3D\Constructor3D\obj\Debug\Constructor3D.csproj.AssemblyReference.cache
+C:\Users\pante\OneDrive\Desktop\New folder\Constructor3D\Constructor3D\obj\Debug\Constructor3D.MainForm.resources
+C:\Users\pante\OneDrive\Desktop\New folder\Constructor3D\Constructor3D\obj\Debug\Constructor3D.Properties.Resources.resources
+C:\Users\pante\OneDrive\Desktop\New folder\Constructor3D\Constructor3D\obj\Debug\Constructor3D.csproj.GenerateResource.cache
+C:\Users\pante\OneDrive\Desktop\New folder\Constructor3D\Constructor3D\obj\Debug\Constructor3D.csproj.CoreCompileInputs.cache
+C:\Users\pante\OneDrive\Desktop\New folder\Constructor3D\Constructor3D\bin\Debug\Constructor3D.exe.config
+C:\Users\pante\OneDrive\Desktop\New folder\Constructor3D\Constructor3D\bin\Debug\Constructor3D.exe
+C:\Users\pante\OneDrive\Desktop\New folder\Constructor3D\Constructor3D\bin\Debug\Constructor3D.pdb
+C:\Users\pante\OneDrive\Desktop\New folder\Constructor3D\Constructor3D\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pante\OneDrive\Desktop\New folder\Constructor3D\Constructor3D\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pante\OneDrive\Desktop\New folder\Constructor3D\Constructor3D\obj\Debug\Constructor3D.csproj.CopyComplete
+C:\Users\pante\OneDrive\Desktop\New folder\Constructor3D\Constructor3D\obj\Debug\Constructor3D.exe
+C:\Users\pante\OneDrive\Desktop\New folder\Constructor3D\Constructor3D\obj\Debug\Constructor3D.pdb

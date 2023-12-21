@@ -1,0 +1,5 @@
+C:\Users\pante\OneDrive\Desktop\New folder\Constructor3D\Constructor3D\obj\Release\Constructor3D.csproj.AssemblyReference.cache
+C:\Users\pante\OneDrive\Desktop\New folder\Constructor3D\Constructor3D\obj\Release\Constructor3D.MainForm.resources
+C:\Users\pante\OneDrive\Desktop\New folder\Constructor3D\Constructor3D\obj\Release\Constructor3D.Properties.Resources.resources
+C:\Users\pante\OneDrive\Desktop\New folder\Constructor3D\Constructor3D\obj\Release\Constructor3D.csproj.GenerateResource.cache
+C:\Users\pante\OneDrive\Desktop\New folder\Constructor3D\Constructor3D\obj\Release\Constructor3D.csproj.CoreCompileInputs.cache

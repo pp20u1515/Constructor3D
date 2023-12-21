@@ -1,0 +1,79 @@
+<mxfile host="Electron" modified="2023-12-07T14:56:11.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="X4VkCbFtJFUj6VrdDa25" version="22.1.2" type="device">
+  <diagram name="Page-1" id="HgN24H0Q-G9YsWbJ4oa6">
+    <mxGraphModel dx="941" dy="644" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uenxgjseUSPWaY8yvuGS-1" value="Mоделирования блочного конструктора" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="501" y="321" width="252" height="252" as="geometry" />
+        </mxCell>
+        <mxCell id="uenxgjseUSPWaY8yvuGS-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="uenxgjseUSPWaY8yvuGS-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="234" y="447" as="sourcePoint" />
+            <mxPoint x="634" y="428" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uenxgjseUSPWaY8yvuGS-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" target="uenxgjseUSPWaY8yvuGS-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="234" y="384" as="sourcePoint" />
+            <mxPoint x="634" y="428" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uenxgjseUSPWaY8yvuGS-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" target="uenxgjseUSPWaY8yvuGS-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="234" y="510" as="sourcePoint" />
+            <mxPoint x="634" y="428" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uenxgjseUSPWaY8yvuGS-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" target="uenxgjseUSPWaY8yvuGS-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="564" y="154" as="sourcePoint" />
+            <mxPoint x="634" y="428" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uenxgjseUSPWaY8yvuGS-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="uenxgjseUSPWaY8yvuGS-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="627" y="154" as="sourcePoint" />
+            <mxPoint x="634" y="428" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uenxgjseUSPWaY8yvuGS-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" target="uenxgjseUSPWaY8yvuGS-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="154" as="sourcePoint" />
+            <mxPoint x="814" y="296" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uenxgjseUSPWaY8yvuGS-10" value="Алгоритм Фонга" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="564" y="223" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uenxgjseUSPWaY8yvuGS-11" value="Простой алгоритм обратной трассировки лучей" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="496" y="221" width="60" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="uenxgjseUSPWaY8yvuGS-13" value="Модифицированный алгоритм обратной трассировки лучей" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="728" y="221" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uenxgjseUSPWaY8yvuGS-16" value="Объекты сцены" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="315" y="342" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uenxgjseUSPWaY8yvuGS-17" value="Оптические свойства объектов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="315" y="403" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uenxgjseUSPWaY8yvuGS-18" value="Геометрические свойства объектов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="313" y="469" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uenxgjseUSPWaY8yvuGS-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="uenxgjseUSPWaY8yvuGS-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="635" y="291" as="sourcePoint" />
+            <mxPoint x="918" y="447" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uenxgjseUSPWaY8yvuGS-22" value="Трехмернoe изображениe" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="793" y="406" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uenxgjseUSPWaY8yvuGS-23" value="А0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="693" y="543" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
